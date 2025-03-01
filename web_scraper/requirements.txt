@@ -4,6 +4,7 @@ requests
 beautifulsoup4
 lxml[html_clean]
 playwright
-playwright-stealth  # Added for stealth mode
 readability-lxml
 pydantic
+playwright-stealth
+setuptools
