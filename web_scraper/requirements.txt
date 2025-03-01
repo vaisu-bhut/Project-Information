@@ -8,3 +8,4 @@ readability-lxml
 pydantic
 playwright-stealth
 setuptools
+websockets
