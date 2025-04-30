@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+lxml[html_clean]
+playwright
+readability-lxml
+pydantic
+playwright-stealth
+setuptools
+websockets
